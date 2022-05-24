@@ -1,1 +1,1 @@
-[![codecov](https://codecov.io/gh/loner1024/branch/master/graph/badge.svg)](https://codecov.io/gh/Loner1024/experiment-ddd)
+[![Coverage Status](https://coveralls.io/repos/github/Loner1024/experiment-ddd/badge.svg?branch=master)](https://coveralls.io/github/Loner1024/experiment-ddd?branch=master)
